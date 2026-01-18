@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankmanju/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shashankmanju/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shashankmanju/Leetcode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Shashankmanju/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shashankmanju/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Shashankmanju/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashankmanju/Leetcode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Shashankmanju/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shashankmanju/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankmanju/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Shashankmanju/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shashankmanju/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Shashankmanju/Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
