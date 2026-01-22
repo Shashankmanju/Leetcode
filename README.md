@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shashankmanju/Leetcode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/Shashankmanju/Leetcode/tree/master/0796-rotate-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shashankmanju/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/Shashankmanju/Leetcode/tree/master/0328-odd-even-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Shashankmanju/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
