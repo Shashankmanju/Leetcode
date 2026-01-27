@@ -105,9 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shashankmanju/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/Shashankmanju/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shashankmanju/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shashankmanju/Leetcode/tree/master/0796-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shashankmanju/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
