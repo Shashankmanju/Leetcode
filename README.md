@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shashankmanju/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shashankmanju/Leetcode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/Shashankmanju/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shashankmanju/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Shashankmanju/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shashankmanju/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -126,8 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shashankmanju/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Shashankmanju/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Shashankmanju/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shashankmanju/Leetcode/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shashankmanju/Leetcode/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Shashankmanju/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
