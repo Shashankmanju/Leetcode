@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shashankmanju/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Shashankmanju/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashankmanju/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shashankmanju/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shashankmanju/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shashankmanju/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Shashankmanju/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shashankmanju/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Shashankmanju/Leetcode/tree/master/0796-rotate-string) |
 ## Union-Find
 |  |
@@ -195,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shashankmanju/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shashankmanju/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shashankmanju/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
