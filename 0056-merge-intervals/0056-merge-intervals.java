@@ -8,18 +8,15 @@ class Solution {
         for(int i=1;i<intervals.length;i++){
             int currentStart=intervals[i][0];
             int currentEnd=intervals[i][1];
-
-            if(end<currentStart){
+            if(currentStart>end){
                 result.add(new int[]{start,end});
                 start=currentStart;
                 end=currentEnd;
             }else{
-                start=Math.min(start,currentStart);
                 end=Math.max(end,currentEnd);
             }
         }
         result.add(new int[]{start,end});
-        
         return result.toArray(new int[result.size()][]);
     }
 }
