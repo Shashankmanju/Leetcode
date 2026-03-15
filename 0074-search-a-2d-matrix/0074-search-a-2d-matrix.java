@@ -4,17 +4,17 @@ class Solution {
         int m=matrix[0].length;
         int left=0;
         int right=n*m-1;
+
         while(left<=right){
             int mid=(left+right)/2;
 
             int row=mid/m;
             int col=mid%m;
+            int midElement=matrix[row][col];
 
-            int midEle=matrix[row][col];
-
-            if(target==midEle){
+            if(midElement==target){
                 return true;
-            }else if(target>midEle){
+            }else if(midElement<target){
                 left=mid+1;
             }else{
                 right=mid-1;
