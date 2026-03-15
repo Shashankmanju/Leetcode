@@ -1,16 +1,16 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
         int ans[]=new int[2];
-         ans[0]=findFirst(nums,target);
-         ans[1]=findLast(nums,target);
+        ans[0]=findFirst(nums,target);
+        ans[1]=findSecond(nums,target);
 
         return ans;
     }
 
     public int findFirst(int nums[],int target){
-        int index=-1;
         int left=0;
         int right=nums.length-1;
+        int index=-1;
         while(left<=right){
             int mid=(left+right)/2;
 
@@ -26,14 +26,13 @@ class Solution {
         return index;
     }
 
-    public int findLast(int nums[],int target){
-        int index=-1;
+    public int findSecond(int nums[],int target){
         int left=0;
         int right=nums.length-1;
-      
-
+        int index=-1;
         while(left<=right){
-              int mid=(left+right)/2;
+            int mid=(left+right)/2;
+
             if(nums[mid]==target){
                 index=mid;
                 left=mid+1;
@@ -42,11 +41,9 @@ class Solution {
             }else{
                 right=mid-1;
             }
-
-            }
-            return index;
         }
-    
+        return index;
     }
-   
 
+
+}
