@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shashankmanju/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shashankmanju/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shashankmanju/Leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Shashankmanju/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Shashankmanju/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashankmanju/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shashankmanju/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shashankmanju/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankmanju/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shashankmanju/Leetcode/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/Shashankmanju/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashankmanju/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Matrix
 |  |
