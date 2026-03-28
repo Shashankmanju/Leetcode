@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashankmanju/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashankmanju/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shashankmanju/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Shashankmanju/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Binary Search
 |  |
 | ------- |
