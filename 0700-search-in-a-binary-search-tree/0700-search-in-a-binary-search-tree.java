@@ -20,9 +20,9 @@ class Solution {
             if(root.val==val){
                 return root;
             }else if(root.val<val){
-                root=root.right;
+                return searchBST(root.right,val);
             }else{
-                root=root.left;
+                return searchBST(root.left,val);
             }
         }
         return null;
