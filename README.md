@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shashankmanju/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shashankmanju/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankmanju/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Shashankmanju/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shashankmanju/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shashankmanju/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shashankmanju/Leetcode/tree/master/0057-insert-interval) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shashankmanju/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Shashankmanju/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shashankmanju/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Shashankmanju/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Shashankmanju/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Shashankmanju/Leetcode/tree/master/0509-fibonacci-number) |
